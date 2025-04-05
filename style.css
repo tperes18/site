@@ -1,0 +1,173 @@
+table{
+    width: 100%;
+    height: 158vh;
+    background-color: rgb(217,207,234);
+}
+
+body{
+    margin: 0
+}
+
+a{
+    text-decoration: none;
+}
+fieldset{
+    margin:auto;
+}
+textarea{
+    resize: none;
+    width: 43vh;
+    height: 20vh;
+}
+
+.alignc{
+    text-align: center;
+}
+.alignr{
+    text-align: right;
+}
+
+/*nearlyUselessTags*/
+.w30{
+    width: 30%;
+}
+.fs2-5{
+    font-size: 2.5vh;
+}
+.fs3{
+    font-size: 3vh;
+}
+.fs3-5{
+    font-size: 3.5vh;
+}
+.fs8{
+    font-size: 8vh;
+}
+.vh3{
+    height: 3vh;
+}
+.vh10{
+    height: 10vh;
+}
+.vh15{
+    height: 15vh;
+}
+.vh60{
+    height: 60vh;
+}
+.vh80{
+    height: 80vh;
+}
+.vw10{
+    width: 10vw;
+}
+.vw20{
+    width: 20vw;
+}
+.vw32{
+    width: 32vw;
+}
+.lh08{
+    line-height: 0.8;
+}
+.lh15{
+    line-height: 2;
+}
+
+
+.bigboy{
+    font-size: 16vh;
+}
+.mediumboy{
+    font-size: 11vh
+}
+.smallerboy{
+    font-size: 7vh;
+}
+.tinyboy{
+    font-size: 5vh;
+}
+
+/*colors:*/
+.black{
+    color: rgb(29,21,42);
+}
+.lpurple{
+    color:rgb(75,52,141);
+}
+.dpurple{
+    color: rgb(64,33,116);
+}
+.gray{
+    color:rgb(217,207,234);
+}
+.white{
+    color:rgb(231,224,243);
+}
+
+.bgblack{
+    background-color: rgb(29,21,42);
+}
+.bglpurple{
+    background-color:rgb(75,52,141);
+}
+.bgdpurple{
+    background-color: rgb(64,33,116);
+}
+.bggray{
+    background-color:rgb(217,207,234);
+}
+.bgwhite{
+    background-color:rgb(231,224,243);
+}
+.bgfullwhite{
+    background-color: rgb(255, 255 ,255);
+}
+
+
+/*fonts*/
+.kufam-normal{
+    font-family: "Kufam", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.kufam-bold{
+    font-family: "Kufam", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.gantari{
+    font-family: "Gantari", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.gantari-bold{
+    font-family: "Gantari", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.goldman-normal{
+    font-family: "Goldman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.goldman-bold{
+    font-family: "Goldman", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.krub{
+    font-family: "Krub", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.kode-mono{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
